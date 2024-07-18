@@ -31,6 +31,7 @@ a {
   font-size: 1.8rem;
   font-style: normal;
   font-weight: 400;
+  cursor: pointer;
 }
 .btn:hover {
   opacity: 0.9;
@@ -132,6 +133,7 @@ select {
   font-style: normal;
   font-weight: 300;
   line-height: 1.75;
+  cursor: pointer;
 }
 .header__action--signup {
   min-width: 104px;
